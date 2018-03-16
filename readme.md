@@ -1,2 +1,2 @@
 # My Voting App
-This is my voting app
+This is my voting app 
